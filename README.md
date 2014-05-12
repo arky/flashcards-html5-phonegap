@@ -12,3 +12,7 @@ Forking this app for your own content is easy:
       https://docs.google.com/spreadsheet/ccc?key=0Au659FdpCliwdGlmLU9VcnJyQ2FQZGtEUnREdnZSZmc&usp=sharing
     - I use this Google script to export this data to JSON:
       http://blog.pamelafox.org/2013/06/exporting-google-spreadsheet-as-json.html
+
+
+Swahili Word List
+http://wold.livingsources.org/vocabulary/1
