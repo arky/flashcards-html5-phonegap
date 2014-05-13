@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="net.credomobiel.mechelsecatechismus" version="1.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>Mechelse Catechismus</name>
+    <name>Flash Cards</name>
     <description>
-        Oefen de vragen en antwoorden van de Mechelse Catechismus.
+    Flash cards to memorize words in new language.
     </description>
     <author email="info@credomobiel.net" href="http://credomobiel.net">
         Credomobiel
