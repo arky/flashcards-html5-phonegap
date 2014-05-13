@@ -94,7 +94,7 @@
         "a": "the ocean"
     },
     {
-        "q": "ziwa (1)",
+        "q": "ziwa",
         "a": "the lake"
     },
     {
@@ -106,7 +106,7 @@
         "a": "the lagoon"
     },
     {
-        "q": "mwamba (1)",
+        "q": "mwamba ",
         "a": "the reef"
     },
     {
@@ -130,7 +130,7 @@
         "a": "the high tide"
     },
     {
-        "q": "mto (1)",
+        "q": "mto ",
         "a": "the river or stream"
     },
     {
@@ -319,7 +319,7 @@
     },
     {
         "q": "-unguza",
-        "a": "to burn(1)"
+        "a": "to burn"
     },
     {
         "q": "-ungua",
@@ -334,7 +334,7 @@
         "a": "to light"
     },
     {
-        "q": "-zima (1)",
+        "q": "-zima ",
         "a": "to extinguish"
     },
     {
@@ -363,11 +363,11 @@
     },
     {
         "q": "kiume",
-        "a": "male(1)"
+        "a": "male"
     },
     {
         "q": "kike",
-        "a": "female(1)"
+        "a": "female"
     },
     {
         "q": "mtoto",
@@ -395,7 +395,7 @@
     },
     {
         "q": "mtoto",
-        "a": "the child(1)"
+        "a": "the child"
     },
     {
         "q": "mtoto mchanga",
@@ -1194,7 +1194,7 @@
         "a": "the mosquito"
     },
     {
-        "q": "kamba (1)",
+        "q": "kamba ",
         "a": "the prawns or shrimp"
     },
     {
@@ -1542,7 +1542,7 @@
         "a": "the elbow"
     },
     {
-        "q": "kiko (1)",
+        "q": "kiko ",
         "a": "the elbow"
     },
     {
@@ -2138,7 +2138,7 @@
         "a": "the oven"
     },
     {
-        "q": "chungu (1)",
+        "q": "chungu ",
         "a": "the pot"
     },
     {
@@ -2187,7 +2187,7 @@
     },
     {
         "q": "kisu",
-        "a": "the knife(1)"
+        "a": "the knife"
     },
     {
         "q": "uma",
@@ -2287,7 +2287,7 @@
     },
     {
         "q": "kinu",
-        "a": "the mortar(1)"
+        "a": "the mortar"
     },
     {
         "q": "mchi",
@@ -2547,7 +2547,7 @@
     },
     {
         "q": "sindano",
-        "a": "the needle(1)"
+        "a": "the needle"
     },
     {
         "q": "maharazi",
@@ -2790,7 +2790,7 @@
         "a": "the tent"
     },
     {
-        "q": "ua (1)",
+        "q": "ua ",
         "a": "the yard or court"
     },
     {
@@ -2882,7 +2882,7 @@
         "a": "the table"
     },
     {
-        "q": "taa (1)",
+        "q": "taa ",
         "a": "the lamp or torch"
     },
     {
@@ -2986,7 +2986,7 @@
         "a": "to cultivate"
     },
     {
-        "q": "ua (1)",
+        "q": "ua ",
         "a": "the fence"
     },
     {
@@ -3046,7 +3046,7 @@
         "a": "to sow"
     },
     {
-        "q": "-panda (1)",
+        "q": "-panda ",
         "a": "to sow"
     },
     {
@@ -3118,7 +3118,7 @@
         "a": "the plant"
     },
     {
-        "q": "-panda (1)",
+        "q": "-panda ",
         "a": "to plant"
     },
     {
@@ -3182,7 +3182,7 @@
         "a": "the tree trunk"
     },
     {
-        "q": "panda (1)",
+        "q": "panda ",
         "a": "the forked branch"
     },
     {
@@ -3394,7 +3394,7 @@
         "a": "to cut down"
     },
     {
-        "q": "-tema (1) kuni",
+        "q": "-tema  kuni",
         "a": "to chop"
     },
     {
@@ -3407,7 +3407,7 @@
     },
     {
         "q": "kisu",
-        "a": "the knife(2)"
+        "a": "the knife"
     },
     {
         "q": "mkasi, makasi",
@@ -3962,7 +3962,7 @@
         "a": "to go"
     },
     {
-        "q": "-panda (2)",
+        "q": "-panda ",
         "a": "to go up"
     },
     {
@@ -3970,7 +3970,7 @@
         "a": "to go up"
     },
     {
-        "q": "-panda (2)",
+        "q": "-panda",
         "a": "to climb"
     },
     {
