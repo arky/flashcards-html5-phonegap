@@ -16,3 +16,7 @@ Forking this app for your own content is easy:
 
 Swahili Word List
 http://wold.livingsources.org/vocabulary/1
+
+Icon: 
+Hello, World In Several Languages 
+http://openclipart.org/detail/171842/hello-world-in-several-languages-by-jobrad-171842
